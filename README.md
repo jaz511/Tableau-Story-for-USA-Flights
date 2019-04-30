@@ -12,6 +12,7 @@ Need consumer_key, consumer_secret, access_token, access_secret to query from Tw
 
 
 Files
+
 act_report: Communicates the insights and displays the Visualizations produced from the wrangled data.
 image_prediction.tsv: Data downloaded using Requests library and URL.
 tweet_json.txt: Data gathered from twitter API.
